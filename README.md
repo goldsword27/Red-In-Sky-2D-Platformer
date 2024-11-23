@@ -55,11 +55,12 @@ Here are screenshots from various stages and menus in the game:
 - **Autumn Level**  
   ![Autumn Level](Assets/Autumn_Level.png)
 
-  - **Winter Level**  
+- **Winter Level**  
   ![Winter Level](Assets/Winter_Level.png)
   
 - **Pause Menu**  
   ![Pause Menu](Assets/Pause_Menu.png)
+
 
 
 ## 🌟 **Future Enhancements**
