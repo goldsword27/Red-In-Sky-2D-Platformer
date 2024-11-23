@@ -34,6 +34,35 @@ In Red in Sky, players control the main character, **Red**, on a mission to resc
 ## 🖌️ **Level Design**
 Each level increases in complexity, introducing new enemy behaviors and more intricate environments. The initial levels teach the player mechanics, while later levels challenge their skills.
 
+### **Screenshots**
+Here are screenshots from various stages and menus in the game:
+
+- **Main Menu**  
+  ![Main Menu](Assets/Main_Menu.png)
+
+- **Settings Menu**  
+  ![Setting](Assets/Setting.png)
+  
+- **Level Menu**  
+  ![Level Menu](Assets/Level_Menu.png)
+
+- **Summer Level**  
+  ![Summer Level](Assets/Summer_Level.png)
+  
+- **Summer Level 2**  
+  ![Summer Level 2](Assets/Summer_Level_2.png)
+  
+- **Autumn Level**  
+  ![Autumn Level](Assets/Autumn_Level.png)
+
+- **Winter Level**  
+  ![Winter Level](Assets/Winter_Level.png)
+  
+- **Pause Menu**  
+  ![Pause Menu](Assets/Pause_Menu.png)
+
+
+
 ## 🌟 **Future Enhancements**
 1. **New Levels**: Expand gameplay with additional stages.
 2. **Character Variety**: Introduce more playable characters.
@@ -60,7 +89,6 @@ Each level increases in complexity, introducing new enemy behaviors and more int
 
 ## 📊 **Project Outcome**
 The Red in Sky project has enhanced our understanding of game design principles, Unity development, and problem-solving in game mechanics. It provided practical exposure and serves as a solid foundation for future game development projects.
-
 
 ---
 
