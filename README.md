@@ -37,29 +37,30 @@ Each level increases in complexity, introducing new enemy behaviors and more int
 ### **Screenshots**
 Here are screenshots from various stages and menus in the game:
 
-- **Autumn Level**  
-  ![Autumn Level](Assets/Autumn_Level.png)
-  
-- **Level Menu**  
-  ![Level Menu](Assets/Level_Menu.png)
-  
 - **Main Menu**  
   ![Main Menu](Assets/Main_Menu.png)
-  
-- **Pause Menu**  
-  ![Pause Menu](Assets/Pause_Menu.png)
-  
+
 - **Settings Menu**  
   ![Setting](Assets/Setting.png)
   
+- **Level Menu**  
+  ![Level Menu](Assets/Level_Menu.png)
+
 - **Summer Level**  
   ![Summer Level](Assets/Summer_Level.png)
   
 - **Summer Level 2**  
   ![Summer Level 2](Assets/Summer_Level_2.png)
   
-- **Winter Level**  
+- **Autumn Level**  
+  ![Autumn Level](Assets/Autumn_Level.png)
+
+  - **Winter Level**  
   ![Winter Level](Assets/Winter_Level.png)
+  
+- **Pause Menu**  
+  ![Pause Menu](Assets/Pause_Menu.png)
+
 
 ## 🌟 **Future Enhancements**
 1. **New Levels**: Expand gameplay with additional stages.
