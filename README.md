@@ -53,7 +53,7 @@ Here are screenshots from various stages and menus in the game:
   ![Summer Level 2](Assets/Summer_Level_2.png)
   
 - **Autumn Level**  
-  ![Autumn Level](Assets/autumn_Level.png)
+  ![Autumn Level](Assets/Autumn_Level.png)
 
   - **Winter Level**  
   ![Winter Level](Assets/Winter_Level.png)
